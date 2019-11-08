@@ -11,6 +11,7 @@
 
 [Git 下载](https://git-scm.com/download)  
 [Bootstrap文档](https://v3.bootcss.com/)
+[Flyway](https://flywaydb.org/documentation/database/mysql)
 
 
 ## 脚本
@@ -26,4 +27,7 @@ CREATE TABLE `user` (
 ) ENGINE=InnoDB AUTO_INCREMENT=2 DEFAULT CHARSET=utf8mb4 COLLATE=utf8mb4_0900_ai_ci
 
 
+```
+```bash
+mvn flyway:migrate
 ```
