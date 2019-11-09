@@ -1,0 +1,1 @@
+alter table question change grm_create gmt_create bigint null;

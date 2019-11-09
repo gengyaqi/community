@@ -1,0 +1,1 @@
+alter table question change titile title varchar(50) null;
