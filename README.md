@@ -5,7 +5,8 @@
 [Spring 文档](https://spring.io/guides)  
 [ES中文](https://elasticsearch.cn/)  
 [Github OAuth 文档](https://developer.github.com/apps/building-oauth-apps/creating-an-oauth-app/)  
-[mybatis](http://mybatis.org/spring-boot-starter/mybatis-spring-boot-autoconfigure/)
+[mybatis](http://mybatis.org/spring-boot-starter/mybatis-spring-boot-autoconfigure/)  
+[Spring MVC](https://docs.spring.io/spring/docs/current/spring-framework-reference/web.html#mvc-config)
 
 ## 工具
 
