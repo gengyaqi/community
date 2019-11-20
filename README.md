@@ -6,7 +6,9 @@
 [ES中文](https://elasticsearch.cn/)  
 [Github OAuth 文档](https://developer.github.com/apps/building-oauth-apps/creating-an-oauth-app/)  
 [mybatis](http://mybatis.org/spring-boot-starter/mybatis-spring-boot-autoconfigure/)  
-[Spring MVC](https://docs.spring.io/spring/docs/current/spring-framework-reference/web.html#mvc-config)
+[Spring MVC](https://docs.spring.io/spring/docs/current/spring-framework-reference/web.html#mvc-config)  
+[Mybatis Generation](http://mybatis.org/generator/running/runningWithMaven.html)  
+[spring-boot 官方文档](https://docs.spring.io/spring-boot/docs/2.0.0.RC1/reference/htmlsingle/)
 
 ## 工具
 
@@ -31,4 +33,5 @@ CREATE TABLE `user` (
 ```
 ```bash
 mvn flyway:migrate
+mvn -Dmybatis.generator.overwrite=true mybatis-generator:generate
 ```
